@@ -7,7 +7,7 @@ Creating a README file is essential for documenting your project and guiding oth
 
 Welcome to the "Guess the Number" game! This simple web-based game challenges players to guess a randomly generated number between 1 and 100. Enjoy testing your luck and logic as you try to guess the correct number with the fewest attempts possible.
 
-![Guess the Number Game](./screenshot.png)
+![Guess the Number Game](./guessinggame.png)
 
 ## Table of Contents
 
@@ -36,7 +36,7 @@ The "Guess the Number" game is a fun and interactive guessing game built with HT
 
 You can play the game online by visiting the following link:
 
-[Live Demo](https://your-demo-link.com)
+[Live Demo](https://abhishekkumargithubit.github.io/Guess-the-Number-Game/)
 
 ## Installation
 
@@ -92,7 +92,7 @@ Contributions are welcome! If you would like to contribute to the project, pleas
 For any inquiries or feedback, please contact me at:
 
 - **Email:** abhishekpradeepkumar7@gmail.com
-- **GitHub:** (https://github.com/your-username)
+- **GitHub:** (https://github.com/abhishekkumargithubit)
 
 Enjoy the game and happy guessing!
 ```
